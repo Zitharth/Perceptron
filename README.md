@@ -1,2 +1,2 @@
 # Perceptron
-Classification of iris dataset using perceptron
+Binary Classification of iris dataset using perceptron
